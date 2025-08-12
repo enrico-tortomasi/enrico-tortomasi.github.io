@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Enrico Tortomasi"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Benvenuto nel mio portfolio, qui troverai i miei progetti di analisi dati sviluppati con Python/Pandas, SQL, Excel e Power BI."
   links:
     - label: "Linkedin"
       icon: "fas fa-fw fa-link"
