@@ -28,7 +28,7 @@ Ogni progetto include dataset (o campione), notebook/dashboard e README con dett
       <td><a href="https://github.com/enrico-tortomasi/netflix-originals-analysis">Repo</a></td>
     </tr>
     <tr>
-      <td><strong>Airbnb NYC</strong></td>
+      <td><strong>Airbnb NYC Analysis</strong></td>
       <td>Prezzi e disponibilità per quartiere</td>
       <td><a href="https://github.com/enrico-tortomasi/airbnb-nyc-analysis">Repo</a></td>
     </tr>
