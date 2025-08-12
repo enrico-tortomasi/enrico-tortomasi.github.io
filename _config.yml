@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Enrico Tortomasi - Portfolio
-email: enricotortomasi0@gmail.com
+email: enrico.tortomasi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Benvenuto nel mio portfolio!
   Qui troverai i miei progetti di analisi dati sviluppati con Python/Pandas, SQL, Excel e Power BI.
