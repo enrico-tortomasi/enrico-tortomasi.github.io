@@ -6,9 +6,7 @@ layout: single
 author_profile: true
 ---
 
-# Data Analytics
-
-Benvenuto nel mio portfolio!  
+Benvenuto nel mio portfolio!
 Qui troverai i miei progetti di analisi dati sviluppati con **Python/Pandas, SQL, Excel e Power BI**.  
 Ogni progetto include dataset (o campione), notebook/dashboard e README con dettagli.
 
