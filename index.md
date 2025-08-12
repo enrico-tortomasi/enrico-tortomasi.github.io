@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 Benvenuto nel mio portfolio!
-Qui troverai i miei progetti di analisi dati sviluppati con **Python/Pandas, SQL, Excel etc..**.  
+Qui troverai i miei progetti di analisi dati sviluppati con **Python/Pandas, SQL, Excel e Power BI**.  
 Ogni progetto include dataset (o campione), notebook/dashboard e README con dettagli.
 
 ---
