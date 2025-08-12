@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Enrico Tortomasi Portfolio
+title: Enrico Tortomasi - Portfolio
 email: enricotortomasi0@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Benvenuto nel mio portfolio!
@@ -62,7 +62,7 @@ author:
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Linkedin"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fas fa-fw fa-link"
       url: "https://enrico-tortomasi.github.io/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -74,7 +74,7 @@ author:
 footer:
   links:
     - label: "Linkedin"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fas fa-fw fa-link"
       url: "https://enrico-tortomasi.github.io/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
