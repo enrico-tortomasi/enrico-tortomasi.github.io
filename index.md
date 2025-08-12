@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 ---
 
-# Data Analytics Portfolio – Enrico Tortomasi
+# Data Analytics
 
 Benvenuto nel mio portfolio!  
 Qui troverai i miei progetti di analisi dati sviluppati con **Python/Pandas, SQL, Excel e Power BI**.  
@@ -15,19 +15,76 @@ Ogni progetto include dataset (o campione), notebook/dashboard e README con dett
 ---
 
 ## 🐍 Python / Pandas
-| Progetto | Descrizione | Link |
-|---|---|---|
-| **Netflix Originals Analysis** | Analisi dei trend dei contenuti Netflix per anno, paese e genere. | [Repo]( https://github.com/enrico-tortomasi/netflix-originals-analysis) |
-| **Airbnb NYC 2019** | Analisi prezzi e disponibilità per quartiere e tipologia. | [Repo]( ) |
+<table>
+  <thead>
+    <tr>
+      <th>Progetto</th>
+      <th>Descrizione</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Netflix Originals Analysis</strong></td>
+      <td>Trend per anno/paese/genere</td>
+      <td><a href="https://github.com/enrico-tortomasi/netflix-originals-analysis">Repo</a></td>
+    </tr>
+    <tr>
+      <td><strong>Airbnb NYC</strong></td>
+      <td>Prezzi e disponibilità per quartiere</td>
+      <td><a href="https://github.com/enrico-tortomasi/airbnb-nyc-analysis">Repo</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 ## 🗄 SQL
-| Progetto | Descrizione | Link |
-|----------|-------------|------|
+<table>
+  <thead>
+    <tr>
+      <th>Progetto</th>
+      <th>Descrizione</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Progetto 1</strong></td>
+      <td>Descrizione..</td>
+      <td><a href="https://github.com/enrico-tortomasi/">Repo</a></td>
+    </tr>
+    <tr>
+      <td><strong>Progetto 2</strong></td>
+      <td>Descrizione..</td>
+      <td><a href="https://github.com/enrico-tortomasi/">Repo</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 ## 📊 Excel / Power BI
-| Progetto | Descrizione | Link |
-|----------|-------------|------|
+<table>
+  <thead>
+    <tr>
+      <th>Progetto</th>
+      <th>Descrizione</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Progetto 1</strong></td>
+      <td>Descrizione..</td>
+      <td><a href="https://github.com/enrico-tortomasi/">Repo</a></td>
+    </tr>
+    <tr>
+      <td><strong>Progetto 2</strong></td>
+      <td>Descrizione..</td>
+      <td><a href="https://github.com/enrico-tortomasi/">Repo</a></td>
+    </tr>
+  </tbody>
+</table>
+
+---
