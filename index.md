@@ -31,11 +31,3 @@ Ogni progetto include dataset (o campione), notebook/dashboard e README con dett
 ## 📊 Excel / Power BI
 | Progetto | Descrizione | Link |
 |----------|-------------|------|
-
-
----
-
-## 📬 Contatti
-- **LinkedIn**: 
-- **GitHub**: [https://github.com/enrico-tortomasi](https://github.com/enrico-tortomasi)
-- **Email**: [enricotortomasi0@gmail.com](enricotortomasi0@gmail.com)
