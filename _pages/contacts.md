@@ -9,4 +9,4 @@ permalink: /contacts/
 - 📧 **Email**: [enrico.tortomasi@gmail.com](mailto:enrico.tortomasi@gmail.com)  
 - 💼 **LinkedIn**: [TO BE UPDATED]()  
 - 💻 **GitHub**: [github.com/enrico-tortomasi](https://github.com/enrico-tortomasi)
-- 📸 Instagram: [@enrico_tortomasi](https://www.instagram.com/enrico_tortomasi/)
+- 📸 **Instagram**: [@enrico_tortomasi](https://www.instagram.com/enrico_tortomasi/)
