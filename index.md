@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 ---
 
-**Benvenuto nel mio Portfolio!**<br><br>
+**Benvenuto nel mio Portfolio!**<br>
 
 Qui troverai i miei progetti di analisi dati sviluppati con:<br>
 **Python/Pandas, SQL, Excel e Power BI**.
