@@ -11,7 +11,7 @@ author_profile: true
 Qui troverai i miei progetti di analisi dati sviluppati con:<br>
 **Python/Pandas, SQL, Excel e Power BI**.
 
-Ogni progetto include:
+Ogni progetto include:<br>
 Dataset (o campione), Notebook/Dashboard e README con dettagli.
 
 ---
