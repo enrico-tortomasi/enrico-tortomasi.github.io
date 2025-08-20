@@ -62,7 +62,7 @@ author:
   bio    : "Benvenuto nel mio portfolio!"
   links:
     - label: "Linkedin"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-linkedin-in"
       url: "https://enrico-tortomasi.github.io/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -74,7 +74,7 @@ author:
 footer:
   links:
     - label: "Linkedin"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-linkedin-in"
       url: "https://enrico-tortomasi.github.io/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
