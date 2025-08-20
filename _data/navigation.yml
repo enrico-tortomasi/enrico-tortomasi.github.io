@@ -1,7 +1,7 @@
 main:
   - title: "📊 Progetti"
     url: /
-  - title: "📬 Contatti"
+  - title: "Contatti"
     url: /contacts/
-  - title: "👤 About Me"
+  - title: "About Me"
     url: /about/
