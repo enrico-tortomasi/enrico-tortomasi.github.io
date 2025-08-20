@@ -67,9 +67,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/enrico-tortomasi"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/enrico_tortomasi"
 
 footer:
   links:
@@ -79,9 +76,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/enrico-tortomasi"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/enrico_tortomasi"
 
 defaults:
   # _posts
