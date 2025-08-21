@@ -12,7 +12,8 @@ Qui troverai i miei progetti di analisi dati sviluppati con:<br>
 **Python/Pandas, SQL, Excel e Power BI**.
 
 Ogni progetto include:<br>
-Dataset (o campione), Notebook/Dashboard e README con dettagli.
+Dataset (o campione), Notebook/Dashboard e README con dettagli.<br>
+Cliccare sui rispettivi links 'Repo' per visualizzare ogni progetto.
 
 ---
 
