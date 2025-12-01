@@ -17,6 +17,26 @@ Cliccare sui rispettivi links 'Repo' per visualizzare ogni progetto.
 
 ---
 
+## 📊 Excel / Power BI
+<table>
+  <thead>
+    <tr>
+      <th>Progetto</th>
+      <th>Descrizione</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Retail Sales Dashboard – PostgreSQL • Excel • Power BI</strong></td>
+      <td>Data modeling (SQL) + Data cleaning (Excel) + BI Dashboard (Power BI).</td>
+      <td><a href="https://github.com/enrico-tortomasi/retail-sales-project">Repo</a></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
 ## 🐍 Python / Pandas
 <table>
   <thead>
@@ -56,31 +76,6 @@ Cliccare sui rispettivi links 'Repo' per visualizzare ogni progetto.
       <td><strong>Sakila Database</strong></td>
       <td>Analisi e Query per noleggi e spesa clienti</td>
       <td><a href="https://github.com/enrico-tortomasi/sql-sakila-project">Repo</a></td>
-    </tr>
-  </tbody>
-</table>
-
----
-
-## 📊 Excel / Power BI
-<table>
-  <thead>
-    <tr>
-      <th>Progetto</th>
-      <th>Descrizione</th>
-      <th>Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Progetto 1</strong></td>
-      <td>Descrizione..</td>
-      <td><a href="https://github.com/enrico-tortomasi/">Repo</a></td>
-    </tr>
-    <tr>
-      <td><strong>Progetto 2</strong></td>
-      <td>Descrizione..</td>
-      <td><a href="https://github.com/enrico-tortomasi/">Repo</a></td>
     </tr>
   </tbody>
 </table>
