@@ -49,12 +49,12 @@ Cliccare sui rispettivi links 'Repo' per visualizzare ogni progetto.
   <tbody>
     <tr>
       <td><strong>Netflix Originals Analysis</strong></td>
-      <td>Trend per anno/paese/genere</td>
+      <td>Trend temporali su rilascio e popolarità dei contenuti per anno, paese e genere.</td>
       <td><a href="https://github.com/enrico-tortomasi/netflix-originals-analysis">Repo</a></td>
     </tr>
     <tr>
       <td><strong>Airbnb NYC Analysis</strong></td>
-      <td>Prezzi e disponibilità per quartiere</td>
+      <td>Analisi dei prezzi, disponibilità e variazioni per quartiere, con focus sulle differenze tra tipologie di alloggi.</td>
       <td><a href="https://github.com/enrico-tortomasi/airbnb-nyc-analysis">Repo</a></td>
     </tr>
   </tbody>
@@ -74,7 +74,7 @@ Cliccare sui rispettivi links 'Repo' per visualizzare ogni progetto.
   <tbody>
     <tr>
       <td><strong>Sakila Database</strong></td>
-      <td>Analisi e Query per noleggi e spesa clienti</td>
+      <td>Query avanzate per analizzare noleggi, ricavi, clienti e performance dei film nel database Sakila.</td>
       <td><a href="https://github.com/enrico-tortomasi/sql-sakila-project">Repo</a></td>
     </tr>
   </tbody>
