@@ -57,6 +57,11 @@ Cliccare sui rispettivi links 'Repo' per visualizzare ogni progetto.
       <td>Analisi dei prezzi, disponibilità e variazioni per quartiere, con focus sulle differenze tra tipologie di alloggi.</td>
       <td><a href="https://github.com/enrico-tortomasi/airbnb-nyc-analysis">Repo</a></td>
     </tr>
+    <tr>
+      <td><strong>Customer Personality Analysis</strong></td>
+      <td>Analisi dei dati cliente per identificare pattern di spesa, segmenti ad alto valore e canali di acquisto più rilevanti.</td>
+      <td><a href="https://github.com/enrico-tortomasi/netflix-originals-analysis">Repo</a></td>
+    </tr>
   </tbody>
 </table>
 
