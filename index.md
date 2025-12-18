@@ -60,7 +60,7 @@ Cliccare sui rispettivi links 'Repo' per visualizzare ogni progetto.
     <tr>
       <td><strong>Customer Personality Analysis</strong></td>
       <td>Analisi dei dati cliente per identificare pattern di spesa, segmenti ad alto valore e canali di acquisto più rilevanti.</td>
-      <td><a href="https://github.com/enrico-tortomasi/netflix-originals-analysis">Repo</a></td>
+      <td><a href="https://github.com/enrico-tortomasi/customer-personality-analysis">Repo</a></td>
     </tr>
   </tbody>
 </table>
