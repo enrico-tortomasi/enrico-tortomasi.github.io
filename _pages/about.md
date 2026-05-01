@@ -8,3 +8,5 @@ Sono un aspirante Data Analyst con un forte focus sull’analisi pratica dei dat
 Ho sviluppato progetti utilizzando Python, Pandas e SQL, lavorando su dataset reali per svolgere data cleaning, feature engineering e analisi esplorativa.
 
 Il mio obiettivo è trasformare i dati in informazioni chiare e utilizzabili, supportando decisioni basate su evidenze.
+
+Attualmente sono alla ricerca di un’opportunità di internship che mi permetta di applicare queste competenze in un contesto professionale e continuare a crescere attraverso l’esperienza pratica.
