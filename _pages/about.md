@@ -3,6 +3,8 @@ permalink: /about/
 title: "About Me"
 ---
 
-I am an aspiring Data Analyst with a strong focus on practical data analysis and business-oriented insights.
-I have developed projects using Python (Pandas) and SQL to analyze real datasets, perform data cleaning, build features and extract meaningful patterns.
-I am currently seeking an internship opportunity to apply my skills in a professional environment and continue growing through hands-on experience.
+Sono un aspirante Data Analyst con un forte focus sull’analisi pratica dei dati e sull’estrazione di insight utili al business.
+
+Ho sviluppato progetti utilizzando Python, Pandas e SQL, lavorando su dataset reali per svolgere data cleaning, feature engineering e analisi esplorativa.
+
+Il mio obiettivo è trasformare i dati in informazioni chiare e utilizzabili, supportando decisioni basate su evidenze.
